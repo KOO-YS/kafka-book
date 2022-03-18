@@ -1,5 +1,10 @@
 # kafka-book
 카프카, 데이터 플랫폼의 최강자
+
+### [official repository](https://github.com/onlybooks/kafka)
+
+<img src="https://github.com/onlybooks/kafka/raw/master/kafka_header.png">
+
 <br>
 
 # wiki index ☕︎
