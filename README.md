@@ -12,3 +12,4 @@
 - [02. 카프카 설치](https://github.com/KOO-YS/kafka-book/wiki/02.-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98)
 - [03. 카프카 디자인](https://github.com/KOO-YS/kafka-book/wiki/03.-%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%94%94%EC%9E%90%EC%9D%B8)
 - [04. 카프카 프로듀서](https://github.com/KOO-YS/kafka-book/wiki/04.-%EC%B9%B4%ED%94%84%EC%B9%B4-%ED%94%84%EB%A1%9C%EB%93%80%EC%84%9C)
+- [05. 카프카 컨슈머](https://github.com/KOO-YS/kafka-book/wiki/05.-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8)
